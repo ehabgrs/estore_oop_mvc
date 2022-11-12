@@ -2,8 +2,8 @@
 // $dsn data source name
 
 $dsn = 'mysql:host=sql102.epizy.com;dbname=epiz_31470951_employees';
-$user = 'epiz_31470951';
-$password = 'gXkX24nCn1no';
+$user = '';
+$password = '';
 
 
 $conn = null;
